@@ -106,5 +106,6 @@ public class CodigoPrueba2 {
         System.out.println(palabrasConcatenadas);
 
         System.out.println("\n Hasta luego...");
+        System.out.println("\n Otra vez...");
     }
 }
